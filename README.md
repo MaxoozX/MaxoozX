@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/MaxoozX/MaxoozX/main/logo-dotted-black-circle-no-background.png" alt="My logo">
+<img src="./logo-dotted-black-circle-no-background.png" alt="My logo">
 </p>
 
 ## Hey! 👋
