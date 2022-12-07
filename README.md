@@ -2,8 +2,8 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MaxoozX.MaxoozX)](https://github.com/MaxoozX) [![GitHub followers](https://shields.io/github/followers/MaxoozX.svg?label=Follow&style=social)](https://github.com/MaxoozX,tab=followers)
 
-**I'm Maxence LQ!
-A self-taught software developer and medium tech writer.**
+**I'm Maxence!
+A self-taught software developer and a medium writer.**
 
 
 I'm very enthousiast about technology and I am determined to live a meaningful life.
