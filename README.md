@@ -1,7 +1,3 @@
-<p align="center">
-<img src="./logo-dotted-black-circle-no-background.png" alt="My logo">
-</p>
-
 ## Hey! 👋
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MaxoozX.MaxoozX)](https://github.com/MaxoozX) [![GitHub followers](https://shields.io/github/followers/MaxoozX.svg?label=Follow&style=social)](https://github.com/MaxoozX,tab=followers)
