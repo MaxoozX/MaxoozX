@@ -5,7 +5,10 @@
 **I'm Maxence LQ!
 A self-taught software developer and medium tech writer.**
 
-Here is a non-exhaustive list of skills I master:
+
+I'm very enthousiast about technology and I am determined to live a meaningful life.
+
+Here is a list of technology I'm experienced with :
 
 - ### FrontEnd Development
     [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
